@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
+
+<img alt="project preview" src="./public/site-preview.png" width="75%"   >  
  
   
 </p>
